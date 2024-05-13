@@ -1,0 +1,5 @@
+console.log("Hello RED ")
+console.log("Hello GREEN ")
+function main (){
+rturn null ;
+}
